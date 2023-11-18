@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aadishasap
+- 👋 Hi, I’m @aadish1001
 - 👀 I’m interested in Fullstack Dev
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on 
