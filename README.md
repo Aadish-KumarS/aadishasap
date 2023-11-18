@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadishasap
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Fullstack Dev
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail(aadishkumarak90)
